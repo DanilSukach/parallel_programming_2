@@ -1,0 +1,3 @@
+Matrix size: 1500
+Lead time: 0.843822 s
+Threads: 12
